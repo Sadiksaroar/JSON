@@ -1,0 +1,46 @@
+{
+    "Students" : [
+
+{
+    "name": "Fahim Rhaman",
+    "middle Name": null,
+    "age" : 26,
+    "cgpa" : 2.90,
+    "isRegisterd" : true,
+    "languages" : ["Benguli", "Engilish", "Hiddi"],
+    "friends" : [
+        {
+            "name" : "Sadik Saroar",
+            "Age" : 23
+
+        },
+        {
+            "name" : "Error",
+            "age" : 23
+        }
+    ]
+
+},
+
+{
+    "name": "Ishart",
+    "middle Name": null,
+    "age" : 20,
+    "cgpa" : 2.67,
+    "isRegisterd" : true,
+    "languages" : ["Benguli", "Engilish", "Hiddi"],
+    "friends" : [
+        {
+            "name" : "Rahim",
+            "Age" : 18
+
+        },
+        {
+            "name" : "Begum",
+            "age" : 45
+        }
+    ]
+
+}
+    ]
+}
